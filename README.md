@@ -26,5 +26,7 @@
 :------:|-----|:-----:
 [LiteFlow](https://github.com/dromara/liteflow)|LiteFlow 适用于拥有复杂逻辑的业务，比如说价格引擎，下单流程等，这些业务往往都拥有很多步骤，这些步骤完全可以按照业务粒度拆分成一个个独立的组件，进行装配复用变更。使用 LiteFlow，你会得到一个灵活度高，扩展性很强的系统。因为组件之间相互独立，也可以避免改一处而动全身的这样的风险。 |[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/s34_C6CZ5SgciD_sR4PNwA)
 [mayfly-go](https://github.com/may-fly/mayfly-go)|web版 linux(终端[终端回放] 文件 脚本 进程)、数据库（mysql postgres）、redis(单机 哨兵 集群)、mongo统一管理操作平台|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/VT0A1ZrIXbNuzGnxVoeazQ)
+[Dragonfly](https://github.com/dragonflydb/dragonfly)|Dragonfly 是一种针对现代应用程序负荷需求而构建的内存数据库，完全兼容 Redis 和 Memcached 的 API，迁移时无需修改任何代码。相比于这些传统的内存数据库，Dragonfly 提供了其 25 倍的吞吐量，高缓存命中率和低尾延迟，同时 Dragonfly 还能轻松进行垂直扩展。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/cGXX93oVteoDV1EOC7Od5g)
+
 
 
