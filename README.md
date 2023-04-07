@@ -28,6 +28,7 @@
 [mayfly-go](https://github.com/may-fly/mayfly-go)|web版 linux(终端[终端回放] 文件 脚本 进程)、数据库（mysql postgres）、redis(单机 哨兵 集群)、mongo统一管理操作平台|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/VT0A1ZrIXbNuzGnxVoeazQ)
 [Dragonfly](https://github.com/dragonflydb/dragonfly)|Dragonfly 是一种针对现代应用程序负荷需求而构建的内存数据库，完全兼容 Redis 和 Memcached 的 API，迁移时无需修改任何代码。相比于这些传统的内存数据库，Dragonfly 提供了其 25 倍的吞吐量，高缓存命中率和低尾延迟，同时 Dragonfly 还能轻松进行垂直扩展。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/cGXX93oVteoDV1EOC7Od5g)
 [amis](https://github.com/baidu/amis)|amis 是一个低代码前端框架，它使用 JSON 配置来生成页面，可以减少页面开发工作量，极大提升效率。使用amis只需要简单配置就能完成所有页面开发，你不需要了解 React/Vue、Webpack，甚至不需要很了解 JavaScript，即便没学过 amis 也能猜到大部分配置的作用，对于大部分常用页面，应该使用最简单的方法来实现，甚至不需要学习前端框架和工具。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/5OxxITGGYgikKrThz3Aqsg)
+[quark-design](https://github.com/hellof2e/quark-design)|Quark Design (Quarkd) 是一套基于 Web Components 的跨框架 UI 组件库，输出标准的 Custom Element。<br/>所有组件可以同时在 React、Vue、Preact、Angular 或 原生 JS 等任意框架或无框架中使用。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://github.com/hellof2e/quark-design)
 
 
 
