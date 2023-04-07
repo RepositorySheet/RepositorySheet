@@ -3,17 +3,19 @@
   <p>
     <img width="400" src="https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/logo3.0.png">
   </p>
-
+  
+  专注于分享 GitHub 开源社区优质有趣的项目、技术干货等内容
+## 
 ![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%BC%80%E6%BA%90%E6%8A%80%E6%9C%AF%E4%B8%93%E6%A0%8F-yellowgreen)
 ![](https://img.shields.io/badge/%E5%B0%8F%E5%8A%A9%E6%89%8Bvx-github--ZS-blue)
 ![](https://img.shields.io/badge/licence-MIT-red)
 ![](https://img.shields.io/badge/articles-60-orange)
 
-专注于分享 GitHub 开源社区优质有趣的项目、技术干货等内容
+
 </div>
 
 #### 公众号
-<img width="200" src="https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/gzh.jpg"><img width="200" src="https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/xzs.jpg">
+<img width="200" src="https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/gzh.jpg">   <img width="150" src="https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/xzs.jpg">
 
 
 
