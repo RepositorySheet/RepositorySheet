@@ -13,7 +13,7 @@
 </div>
 
 #### 公众号
-<img width="50" src="https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/gzh.jpg"><img width="50" src="https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/xzs.jpg">
+<img width="200" src="https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/gzh.jpg"><img width="200" src="https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/xzs.jpg">
 
 
 
