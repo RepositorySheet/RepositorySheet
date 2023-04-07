@@ -1,7 +1,7 @@
 <div align="center">
   
   <p>
-    <img width="1000" src="https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/logo3.0.png">
+    <img width="500" src="https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/logo3.0.png">
   </p>
 
 ![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%BC%80%E6%BA%90%E6%8A%80%E6%9C%AF%E4%B8%93%E6%A0%8F-yellowgreen)![](https://img.shields.io/badge/%E5%B0%8F%E5%8A%A9%E6%89%8Bvx-github--ZS-blue)![](https://img.shields.io/badge/licence-MIT-red)
