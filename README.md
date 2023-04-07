@@ -12,9 +12,9 @@
 专注于分享 GitHub 开源社区优质有趣的项目、技术干货等内容
 </div>
 
-### 公众号
-<img width="50" src="https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/gzh.png">
-<img width="50" src="https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/xzs.png">
+#### 公众号
+<img width="50" src="https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/gzh.jpg"><img width="50" src="https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/xzs.jpg">
+
 
 
 <br/>
