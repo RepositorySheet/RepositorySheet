@@ -4,7 +4,8 @@
 
 专注于分享 GitHub 开源社区优质有趣的项目、技术干货等内容
 </div>
+
 | **项目**|**介绍**|**图文**|<span style="display:inline-block;width:100px">类型</span>|
-|:-:|:-:|:-:|:-:|
-| [LiteFlow](https://github.com/dromara/liteflow)          | LiteFlow 适用于拥有复杂逻辑的业务，比如说价格引擎，下单流程等，这些业务往往都拥有很多步骤，这些步骤完全可以按照业务粒度拆分成一个个独立的组件，进行装配复用变更。使用 LiteFlow，你会得到一个灵活度高，扩展性很强的系统。因为组件之间相互独立，也可以避免改一处而动全身的这样的风险。 |![](https://mp.weixin.qq.com/s/s34_C6CZ5SgciD_sR4PNwA)| ![](https://img.shields.io/badge/licence-MIT-red)|
+|:------:|:-----:|:-----:|:------:|
+| [LiteFlow](https://github.com/dromara/liteflow) | LiteFlow 适用于拥有复杂逻辑的业务，比如说价格引擎，下单流程等，这些业务往往都拥有很多步骤，这些步骤完全可以按照业务粒度拆分成一个个独立的组件，进行装配复用变更。使用 LiteFlow，你会得到一个灵活度高，扩展性很强的系统。因为组件之间相互独立，也可以避免改一处而动全身的这样的风险。 |![](https://mp.weixin.qq.com/s/s34_C6CZ5SgciD_sR4PNwA)| ![](https://img.shields.io/badge/licence-MIT-red)|
 
