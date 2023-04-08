@@ -23,7 +23,7 @@
 <br/>
 
 
-| **项目**|**介绍**|**图文**|
+| **项目**|**介绍**|&nbsp&nbsp**图文**&nbsp&nbsp|
 :------:|-----|:-----:
 [Dante Cloud](https://github.com/dromara/dante-cloud)|Dante Cloud (但丁，原 Eurynome Cloud) 是一款企业级微服务架构和服务能力开发平台。基于 Spring Boot 2.7.3、Spring Cloud 2021.0.4、Spring Cloud Alibaba 2021.0.4.0、Spring Authorization Server 0.3.1、Nacos 2.1.1 等最新版本开发，遵循 SpringBoot 编程思想，高度模块化和可配置化。具备服务发现、配置、熔断、限流、降级、监控、多级缓存、分布式事务、工作流、多租户等功能，代码简洁，架构清晰，非常适合学习和企业作为基础框架使用。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx32.png)](https://mp.weixin.qq.com/s/rGX6LjX9XBaz_qSc5Gzfrw)
 [LiteFlow](https://github.com/dromara/liteflow)|LiteFlow 适用于拥有复杂逻辑的业务，比如说价格引擎，下单流程等，这些业务往往都拥有很多步骤，这些步骤完全可以按照业务粒度拆分成一个个独立的组件，进行装配复用变更。使用 LiteFlow，你会得到一个灵活度高，扩展性很强的系统。因为组件之间相互独立，也可以避免改一处而动全身的这样的风险。 |[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/s34_C6CZ5SgciD_sR4PNwA)
