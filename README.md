@@ -15,12 +15,13 @@
 
 </div>
 
-#### 公众号
+#### 关注我们
 <img width="200" src="https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/gzh.jpg">    <img width="150" src="https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/xzs.jpg">
 
 
-
+## 
 <br/>
+
 
 | **项目**|**介绍**|<span style="display:inline-block;width:150px">图文</span>|
 :------:|-----|:-----:
