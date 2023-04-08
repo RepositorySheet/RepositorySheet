@@ -25,7 +25,7 @@
 
 | **项目**|**介绍**|**图文**|
 :------:|-----|:-----:
-[Dante Cloud](https://github.com/dromara/dante-cloud)|Dante Cloud (但丁，原 Eurynome Cloud) 是一款企业级微服务架构和服务能力开发平台。基于 Spring Boot 2.7.3、Spring Cloud 2021.0.4、Spring Cloud Alibaba 2021.0.4.0、Spring Authorization Server 0.3.1、Nacos 2.1.1 等最新版本开发，遵循 SpringBoot 编程思想，高度模块化和可配置化。具备服务发现、配置、熔断、限流、降级、监控、多级缓存、分布式事务、工作流、多租户等功能，代码简洁，架构清晰，非常适合学习和企业作为基础框架使用。|<div style="width: 500px"> [![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/rGX6LjX9XBaz_qSc5Gzfrw)</div>
+[Dante Cloud](https://github.com/dromara/dante-cloud)|Dante Cloud (但丁，原 Eurynome Cloud) 是一款企业级微服务架构和服务能力开发平台。基于 Spring Boot 2.7.3、Spring Cloud 2021.0.4、Spring Cloud Alibaba 2021.0.4.0、Spring Authorization Server 0.3.1、Nacos 2.1.1 等最新版本开发，遵循 SpringBoot 编程思想，高度模块化和可配置化。具备服务发现、配置、熔断、限流、降级、监控、多级缓存、分布式事务、工作流、多租户等功能，代码简洁，架构清晰，非常适合学习和企业作为基础框架使用。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/rGX6LjX9XBaz_qSc5Gzfrw)
 [LiteFlow](https://github.com/dromara/liteflow)|LiteFlow 适用于拥有复杂逻辑的业务，比如说价格引擎，下单流程等，这些业务往往都拥有很多步骤，这些步骤完全可以按照业务粒度拆分成一个个独立的组件，进行装配复用变更。使用 LiteFlow，你会得到一个灵活度高，扩展性很强的系统。因为组件之间相互独立，也可以避免改一处而动全身的这样的风险。 |[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/s34_C6CZ5SgciD_sR4PNwA)
 [mayfly-go](https://github.com/may-fly/mayfly-go)|web版 linux(终端[终端回放] 文件 脚本 进程)、数据库（mysql postgres）、redis(单机 哨兵 集群)、mongo统一管理操作平台|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/VT0A1ZrIXbNuzGnxVoeazQ)
 [Dragonfly](https://github.com/dragonflydb/dragonfly)|Dragonfly 是一种针对现代应用程序负荷需求而构建的内存数据库，完全兼容 Redis 和 Memcached 的 API，迁移时无需修改任何代码。相比于这些传统的内存数据库，Dragonfly 提供了其 25 倍的吞吐量，高缓存命中率和低尾延迟，同时 Dragonfly 还能轻松进行垂直扩展。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/cGXX93oVteoDV1EOC7Od5g)
@@ -40,7 +40,10 @@
 [chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)|本项目基于GO语言实现，可以助你将GPT机器人集成到钉钉群聊当中。当前默认模型为 gpt-3.5。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/_Z0rEnzki51_m3SlcROXYQ)
 [APIJSON](https://github.com/Tencent/APIJSON)|专为 API 而生的 JSON 网络传输协议 以及 基于这套协议实现的 ORM 库。<br/>为各种增删改查提供了完全自动化的万能通用接口，零代码实时满足千变万化的各种新增和变更需求。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/mCiw4vdTRGdBUD9yjkQngw)
 [OpenSumi](https://github.com/opensumi/core)|OpenSumi 框架旨在解决阿里经济体内部 IDE 产品研发的重复建设问题，满足 IDE 在更多垂直场景的定制能力，同时实现 Web 与本地客户端共用底层，让 IDE 研发从早期的“刀耕火种”时代向“机器化大生产”时代迈进。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/dIg-5Ha2ORgYH0YH6RnEtA)
-
+[AlphaPlayer](https://github.com/bytedance/AlphaPlayer)|AlphaPlayer 是直播台使用的一个视频动画 SDK，可以通过制作 Alpha 通道分离的视频素材，再在客户端上通过 ES 重新实现 Alpha 通道和 RGB 通道的混合，真正实现在 OpenGL 中播放带透明通道的视频。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/4iWHOERAqEVonmXzexXJ2g)
+[Wails](https://github.com/wailsapp/wails)|使用 Go 和 Web 技术帮助编写桌面应用程序。对于前端，使用 Webview 库. 不过它使用平台的本机渲染引擎（当前 Linux 和 Mac 使用 Webkit，Windows 使用 MSHTML）。前端使用 HTML / Javascript / CSS 编码，后端是纯 Go 语言。通过绑定机制，可以将 Go 代码作为返回 Promise 的功能公开给前端。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/GosV-wpB5QspAnQnLVYsuw)
+[ToolJet](https://github.com/ToolJet/ToolJet)|开源低代码框架，用于构建和部署自定义内部工具。ToolJet还附带了其内置数据库，称为ToolJet DB（建立在PostgreSQL之上）。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/QKQKtlcwvT7_YE40uf7bBg)
+[Vue-Vben-Admin](https://github.com/vbenjs/vue-vben-admin)|Vue-Vben-Admin 是一个基于 Vue3.0、Vite、 Ant-Design-Vue、TypeScript 的后台解决方案，目标是为开发中大型项目提供开箱即用的解决方案。包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/UEBpPHy8k2kHy9JgR-_FMQ)
 
 
 
