@@ -36,8 +36,11 @@
 [Workflow](https://github.com/StavinLi/Workflow)|创建审批流程、添加审批人、设置审批条件、发起审批统统不在话下，开源的Workflow钉钉审批流程设置，基于vue开发|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/I2rWvSWEQ5gUJrRoclLPCQ)
 [MiniExcel](https://github.com/mini-software/MiniExcel)|目前主流框架大多需要将数据全载入到内存方便操作，但这会导致内存消耗问题，MiniExcel 尝试以 Stream 角度写底层算法逻辑，能让原本1000多MB占用降低到几MB，避免内存不够情况。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/-l33VXaWaakkUeg8fpB6Ow)
 [Forest](https://github.com/dromara/forest)|使用 Forest 就像使用类似 Dubbo 那样的 RPC 框架一样，只需要定义接口，调用接口即可，不必关心具体发送 HTTP 请求的细节。同时将 HTTP 请求信息与业务代码解耦，方便统一管理大量 HTTP 的 URL、Header 等信息。而请求的调用方完全不必在意 HTTP 的具体内容，即使该 HTTP 请求信息发生变更，大多数情况也不需要修改调用发送请求的代码。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/5wNQOL-zSpal_F4dv-3ClQ)
-[Slidev](https://github.com/slidevjs/slidev)|基于 Web 的幻灯片制作和演示工具。它旨在让开发者专注在 Markdown 中编写内容，同时拥有支持 HTML 和 Vue 组件的能力，并且能够呈现像素级完美的布局，还在演讲稿中内置了互动的演示样例。Slidev使用了功能丰富的 markdown 文件来生成精美的幻灯片，具有即时重载的体验。同时它还拥有很多内置的集成功能，如实时编码、导出 PDF、演讲录制等。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)]([https://mp.weixin.qq.com/s/_Z0rEnzki51_m3SlcROXYQ](https://mp.weixin.qq.com/s/Nygsh95XHVl-4Qxw3pmCUQ)
+[Slidev](https://github.com/slidevjs/slidev)|基于 Web 的幻灯片制作和演示工具。它旨在让开发者专注在 Markdown 中编写内容，同时拥有支持 HTML 和 Vue 组件的能力，并且能够呈现像素级完美的布局，还在演讲稿中内置了互动的演示样例。Slidev使用了功能丰富的 markdown 文件来生成精美的幻灯片，具有即时重载的体验。同时它还拥有很多内置的集成功能，如实时编码、导出 PDF、演讲录制等。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/Nygsh95XHVl-4Qxw3pmCUQ)
 [chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)|本项目基于GO语言实现，可以助你将GPT机器人集成到钉钉群聊当中。当前默认模型为 gpt-3.5。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/_Z0rEnzki51_m3SlcROXYQ)
+[APIJSON](https://github.com/Tencent/APIJSON)|专为 API 而生的 JSON 网络传输协议 以及 基于这套协议实现的 ORM 库。<br/>为各种增删改查提供了完全自动化的万能通用接口，零代码实时满足千变万化的各种新增和变更需求。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/mCiw4vdTRGdBUD9yjkQngw)
+[OpenSumi](https://github.com/opensumi/core)|OpenSumi 框架旨在解决阿里经济体内部 IDE 产品研发的重复建设问题，满足 IDE 在更多垂直场景的定制能力，同时实现 Web 与本地客户端共用底层，让 IDE 研发从早期的“刀耕火种”时代向“机器化大生产”时代迈进。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/dIg-5Ha2ORgYH0YH6RnEtA)
+
 
 
 
