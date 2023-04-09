@@ -85,6 +85,53 @@
 [magic-api](https://github.com/ssssssss-team/magic-api)|magic-api 是一个基于 Java 的接口快速开发框架，编写接口将通过 magic-api提供的 UI 界面完成，自动映射为 HTTP 接口，无需定义 Controller、Service、Dao、Mapper、XML、VO 等 Java 对象即可完成常见的 HTTP API 接口开发。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/zg_etEE3hXlw4L6WKTy52A)|![](https://img.shields.io/badge/-Java-red)&nbsp;![](https://img.shields.io/badge/-api-framework-red)&nbsp;![](https://img.shields.io/badge/-sql-red)&nbsp;![](https://img.shields.io/github/stars/ssssssss-team/magic-api.svg)&emsp;&emsp;&emsp;&emsp;
 [xLua](https://github.com/Tencent/xLua)|xLua 为 Unity、 .Net、 Mono 等 C#环境增加 Lua 脚本编程的能力，借助 xLua，这些Lua代码可以方便的和 C#相互调用。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/MgXlNoTOaO6k92bW8lpcDQ)|![](https://img.shields.io/badge/-C-red)&nbsp;![](https://img.shields.io/badge/-lua-framework-red)&nbsp;![](https://img.shields.io/badge/-C%23-red)&nbsp;![](https://img.shields.io/badge/-unity-red)&nbsp;![](https://img.shields.io/badge/-unity3D-red)&nbsp;![](https://img.shields.io/github/stars/Tencent/xLua.svg)&emsp;&emsp;&emsp;&emsp;
 [LowCodeEngine](https://github.com/alibaba/lowcode-engine)|LowCodeEngine是由阿里巴巴钉钉团队开源的低代码引擎， 该引擎全面遵循《阿里巴巴中后端前端基础构建协议规范》和《阿里巴巴中后端前端素材协议规范》。兼容主流浏览器： Chrome >= 80，Edge >= 80，safari 和 firefox 最近 2 个 版本。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/7coeDO6PPKuHiSYBNkCQXQ)|![](https://img.shields.io/badge/-TypeScript-red)&nbsp;![](https://img.shields.io/badge/-lowcode-red)&nbsp;![](https://img.shields.io/badge/-alibaba-red)&nbsp;![](https://img.shields.io/github/stars/alibaba/lowcode-engine.svg)&emsp;&emsp;&emsp;&emsp;
+[Cloudreve](https://github.com/cloudreve/Cloudreve)|Cloudreve 是一个基于 Go + Gin 开发的云文件系统，可从本地和多个公有云上传下载文件，支持视频、图像、音频、文本、Office 文档在线预览。部署简单，开箱即用！<br/>Cloudreve 在底层支持不同的云存储平台，用户在实际使用时无须关心物理存储方式。你可以使用 Cloudreve 搭建个人用网盘、文件分享系统，亦或是针对大小团体的公有云系统。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/EV8FVYcgXO9bntuaMuiFoA)|![](https://img.shields.io/badge/-Go-red)&nbsp;![](https://img.shields.io/badge/-cloud--storage-red)&nbsp;![](https://img.shields.io/badge/-file--manager-red)&nbsp;![](https://img.shields.io/github/stars/cloudreve/Cloudreve.svg)&emsp;&emsp;&emsp;&emsp;
+[Tabby](https://github.com/Eugeny/tabby)|Tabby (前身是 Terminus) 是一个可高度配置的终端模拟器和SSH或串口客户端，支持 Windows，macOS 和 Linux。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/zqePS52Z4wMECtUZhTR3eg)|![](https://img.shields.io/badge/-Telnet-red)&nbsp;![](https://img.shields.io/badge/-SSH-red)&nbsp;![](https://img.shields.io/github/stars/Eugeny/tabby.svg)&emsp;&emsp;&emsp;&emsp;
+[DrissionPage](https://github.com/g1879/DrissionPage)|DrissionPage 是一个基于 python 的网页自动化工具。它既能控制浏览器，也能收发数据包，还能把两者合而为一。可兼顾浏览器自动化的便利性和 requests 的高效率。它功能强大，内置无数人性化设计和便捷功能。它的语法简洁而优雅，代码量少，对新手友好。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/ZFqLdxI1QIWSXQMSQvOmvg)|![](https://img.shields.io/badge/-Python-red)&nbsp;![](https://img.shields.io/badge/-automation-red)&nbsp;![](https://img.shields.io/github/stars/g1879/DrissionPage.svg)&emsp;&emsp;&emsp;&emsp;
+[DooTask](https://github.com/kuaifan/dootask)|DooTask 是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/slNo-_SR0KSKJpG5L-7XSw)|![](https://img.shields.io/badge/-PHP-red)&nbsp;![](https://img.shields.io/badge/-Vue-red)&nbsp;![](https://img.shields.io/badge/-project--manager-red)&nbsp;![](https://img.shields.io/github/stars/kuaifan/dootask.svg)&emsp;&emsp;&emsp;&emsp;
+[Varlet](https://github.com/varletjs/varlet)|Varlet 是一个基于 Vue3 开发的 Material 风格移动端组件库，全面拥抱 Vue3 生态，由社区团队维护。支持 Typescript、按需引入、暗黑模式、主题定制、国际化，并提供 VSCode 插件保障良好的开发体验。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/RavkHUTEMvM8vgRTG6EHdg)|![](https://img.shields.io/badge/-Vue-red)&nbsp;![](https://img.shields.io/badge/-mobile--ui-red)&nbsp;![](https://img.shields.io/badge/-material-red)&nbsp;![](https://img.shields.io/github/stars/varletjs/varlet.svg)&emsp;&emsp;&emsp;&emsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
