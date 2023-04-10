@@ -16,7 +16,7 @@
 </div>
 
 #### 关注我们
-<img width="200" src="https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/gzh.jpg">    <img width="150" src="https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/xzs.jpg">
+<img width="200" src="https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/gzh.jpg">    <img width="150" src="https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/hel.jpg">
 
 
 ## 
