@@ -8,10 +8,7 @@
 ## 
   
 ![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%BC%80%E6%BA%90%E6%8A%80%E6%9C%AF%E4%B8%93%E6%A0%8F-yellowgreen)
-![](https://img.shields.io/badge/%E5%B0%8F%E5%8A%A9%E6%89%8Bvx-github--ZS-blue)
 ![](https://img.shields.io/badge/licence-MIT-red)
-![](https://img.shields.io/badge/articles-300+-orange)
-
 
 </div>
 
@@ -20,8 +17,7 @@
 - 加入技术交流群，与其他技术爱好者一起交流、学习和成长
 - 项目推荐、反馈建议可提交 `Issues`
 
-<img width="200" src="https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/gzh.jpg">    <img width="150" src="https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/hel.jpg">
-
+<img width="200" src="https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/gzh.jpg">
 
 ## 
 <br/>
