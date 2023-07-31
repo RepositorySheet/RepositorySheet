@@ -12,6 +12,12 @@
 
 </div>
 
+
+<p align="center"> 
+<a href="https://info.flagcounter.com/J5s6"><img src="https://s11.flagcounter.com/map/J5s6/size_m/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+</p>
+
+
 #### 关注我们
 - 关注公众号了解最新的技术趋势、获取优质的开源项目资源
 - 加入技术交流群，与其他技术爱好者一起交流、学习和成长
