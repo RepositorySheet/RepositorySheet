@@ -1,31 +1,31 @@
 <div align="center">
+  
+  <p>
+    <img width="400" src="https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/logo3.0.png">
+  </p>
 
-    <p>
-        <img width="400" src="https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/logo3.0.png">
-    </p>
-
-    专注于分享 GitHub 开源社区优质有趣的项目、技术干货等内容
-    ##
-
-    ![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%BC%80%E6%BA%90%E6%8A%80%E6%9C%AF%E4%B8%93%E6%A0%8F-yellowgreen)
-    ![](https://img.shields.io/badge/licence-MIT-red)
+  专注于分享 GitHub 开源社区优质有趣的项目、技术干货等内容
+## 
+  
+![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%BC%80%E6%BA%90%E6%8A%80%E6%9C%AF%E4%B8%93%E6%A0%8F-yellowgreen)
+![](https://img.shields.io/badge/licence-MIT-red)
 
 </div>
 
 
-<p align="center">
+<p align="center"> 
 <a href="https://info.flagcounter.com/J5s6"><img src="https://s11.flagcounter.com/map/J5s6/size_m/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 </p>
 
 
-    #### 关注我们
-    - 关注公众号了解最新的技术趋势、获取优质的开源项目资源
-    - 加入技术交流群，与其他技术爱好者一起交流、学习和成长
-    - 项目推荐、反馈建议可提交 `Issues`
+#### 关注我们
+- 关注公众号了解最新的技术趋势、获取优质的开源项目资源
+- 加入技术交流群，与其他技术爱好者一起交流、学习和成长
+- 项目推荐、反馈建议可提交 `Issues`
 
 <img width="200" src="https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/gzh.jpg">
 
-##
+## 
 <br/>
 
 
@@ -193,35 +193,6 @@
 [DWSurvey](https://github.com/wkeyuan/DWSurvey)|DWSurvey 自2012年就开始启动，经过多年的发展，现已成为行业第一的开源问卷调查表单系统，每天有着大量的企业用户在使用。DWSurvey 问卷软件的解决方案覆盖了在线问卷可视化的设计，问卷数据多渠道的收集，答卷数据实时可见。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/qOTdPeeNETAGu1Pz-cFFvw)|![](https://img.shields.io/badge/-Java-%2392BFED)&nbsp;![](https://img.shields.io/badge/-Survey-%2392BFED)&nbsp;![](https://img.shields.io/github/stars/wkeyuan/DWSurvey.svg)&emsp;&emsp;&emsp;&emsp;
 [NocoBase](https://github.com/nocobase/nocobase)|NocoBase 是一个极易扩展的开源无代码开发平台。无需编程，使用 NocoBase 搭建自己的协作平台、管理系统，只需要几个小时。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/Z70gQe3mHCsR_O0QM7OUmA)|![](https://img.shields.io/badge/-TypeScript-%2392BFED)&nbsp;![](https://img.shields.io/badge/-low--code-%2392BFED)&nbsp;![](https://img.shields.io/github/stars/nocobase/nocobase.svg)&emsp;&emsp;&emsp;&emsp;
 [BaiduSpider](https://github.com/BaiduSpider/BaiduSpider)|BaiduSpider 是一个使用 Python 编写的轻量级百度爬虫。它基于 Requests 和 BeautifulSoup 构建，并提供了易用的 API 接口以及完善的类型注释，提升开发者的使用体验。|[![](https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/vx20.png)](https://mp.weixin.qq.com/s/I8VBYQUKi4Xrh1uuPXlkWA)|![](https://img.shields.io/badge/-Python-%2392BFED)&nbsp;![](https://img.shields.io/badge/-spider-%2392BFED)&nbsp;![](https://img.shields.io/github/stars/BaiduSpider/BaiduSpider.svg)&emsp;&emsp;&emsp;&emsp;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
