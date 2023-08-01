@@ -18,12 +18,7 @@
 </p>
 
 
-#### 关注我们
-- 关注公众号了解最新的技术趋势、获取优质的开源项目资源
-- 加入技术交流群，与其他技术爱好者一起交流、学习和成长
-- 项目推荐、反馈建议可提交 `Issues`
 
-<img width="200" src="https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/gzh.jpg">
 
 ## 
 <br/>
