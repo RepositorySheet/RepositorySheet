@@ -3,14 +3,17 @@
   <p>
     <img width="400" src="https://github.com/OpenTechCol/OpenTechCol/blob/main/assets/logo3.0.png">
   </p>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Welcome!;+专注于分享GitHub开源社区优质有趣的项目、技术干货等内容;+项目推荐、反馈建议可提交`Issues`)](https://git.io/typing-svg)
 
-  专注于分享 GitHub 开源社区优质有趣的项目、技术干货等内容
+  
 ## 
   
 ![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%BC%80%E6%BA%90%E6%8A%80%E6%9C%AF%E4%B8%93%E6%A0%8F-yellowgreen)
 ![](https://img.shields.io/badge/licence-MIT-red)
 
 </div>
+
 
 
 <p align="center"> 
